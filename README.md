@@ -8,7 +8,7 @@
 
 ### Overview
 
-Health Dashboard is a Laravel application for managing hospital/healthcare center hardware inventory, organizational units, tickets, and todos. Built with Livewire, MaryUI, and Tailwind CSS.
+Health Dashboard is a Laravel application for managing hospital/healthcare center hardware inventory, organizational units, tickets, and todos. Built with Livewire, MaryUI, and Tailwind CSS and Redis.
 
 **Key features:**
 - User management with role-based access (Spatie)
